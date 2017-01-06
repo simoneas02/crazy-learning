@@ -1,0 +1,1 @@
+- [ ] [Semântica: uma jornada pelos componentes web por Bernard De Luna](https://www.youtube.com/watch?v=57ZtsK0Y4vo&t=2s)

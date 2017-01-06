@@ -1,0 +1,1 @@
+- [ ] [O que há de novo no HTML5.1?](https://speakerdeck.com/afonsopacifer/o-que-ha-de-novo-no-html5-dot-1)

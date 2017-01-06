@@ -1,0 +1,2 @@
+- [ ] [Documentation](https://dev.twitter.com/cards/overview)
+- [ ] [Validator](https://cards-dev.twitter.com/validator)
