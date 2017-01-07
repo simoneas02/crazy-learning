@@ -4,6 +4,7 @@
 - [Style](#style)
 - [Behavior](#behavior)
 - [Responsive Web Design](#responsive-web-design)
+- [Others](#others)
 
 ## Markup
   - For browsers
@@ -14,6 +15,7 @@
   - For Robots
     - Search engine
       - [ ] [Microdate](src/microdate.md)
+      - [ ] [Linked Data](src/linked-data.md)
     - Share
       - [ ] [Open Graph](src/open-graph.md)
       - [ ] [Twitter Card](src/twitter-card.md)
@@ -29,3 +31,6 @@
 ## Responsive Web Design
   - [ ] [Concepts](src/concepts.md)
   - [ ] [Grids](src/grids.md)
+
+## Others
+  - [ ] [Others](src/others.md)
