@@ -9,6 +9,7 @@
 - [ ] [O Poder está no frontend](https://www.youtube.com/watch?v=cmT3clnhbiQ&t=36s)
 - [ ] [FrontinSampa 2012 - Tema Surpresa](https://www.youtube.com/watch?v=y8UUKv7j0l0)
 - [ ] [Frontinsampa 2016 - Palestra Surpresa (2012 feelings)](https://www.youtube.com/watch?v=jR3ysN9wiTk&t=157s)
+- [ ] [A web está morrendo e você é o culpado](https://www.youtube.com/watch?v=RIEsNPCP-PI&t=2s)
 - [ ] []()
 
 ### [<-- Back](https://github.com/simoneas02/crazy-learning/)

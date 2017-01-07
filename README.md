@@ -3,7 +3,6 @@
 - [Markup](#markup)
 - [Style](#style)
 - [Behavior](#behavior)
-- [Responsive Web Design](#responsive-web-design)
 - [Others](#others)
 
 ## Markup
@@ -25,6 +24,8 @@
       - [ ] [Pug](src/pug.md)
 
 ## Style
+  - Fundamentals
+    - [ ] [Fundamentals](src/fundamentals.md)
   - Cross Browser
     - [ ] [Resets](src/resets.md)
   - Responsive Web Design
