@@ -25,12 +25,19 @@
       - [ ] [Pug](src/pug.md)
 
 ## Style
+  - Cross Browser
+    - [ ] [Resets](src/resets.md)
+  - Responsive Web Design
+    - [ ] [Concepts](src/concepts.md)
+    - [ ] [Grids](src/grids.md)
+  - Layout
+    - [ ] [Flexbox](src/flexbox.md)
+  - Performance
+    - [ ] [Performance](src/css-performance.md)
 
 ## Behavior
 
-## Responsive Web Design
-  - [ ] [Concepts](src/concepts.md)
-  - [ ] [Grids](src/grids.md)
+
 
 ## Others
   - [ ] [Others](src/others.md)
