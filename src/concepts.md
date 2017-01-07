@@ -1,0 +1,20 @@
+# RWD Concepts
+
+- [ ] [Design Responsivo I – O que é e por que usar](http://blog.popupdesign.com.br/design-responsivo-i-o-que-e-e-por-que-usar/)
+- [ ] [Design Responsivo III – Media Queries e Compatibilidade](http://blog.popupdesign.com.br/design-responsivo-iii-media-queries-e-compatibilidade/)
+- [ ] [Design Responsivo na prática: do rascunho ao digital](https://tableless.com.br/design-responsivo-na-pratica-do-rascunho-ao-digita/)
+- [ ] [Design Responsivo na prática 2: do layout ao HTML](https://tableless.com.br/design-responsivo-na-pratica-2-layout-ao-html/)
+- [ ] [Como testar design responsivo](https://tableless.com.br/como-testar-design-responsivo/)
+- [ ] [Imagens Responsivas de Alta Performance](https://tableless.com.br/imagens-responsivas-de-alta-performance/)
+- [ ] [Uma tonelada de Truques de Web Mobile](https://www.youtube.com/watch?v=aH9eVa2cTcM)
+- [ ] [Design Responsivo & Retina Display: desenvolvimento web em alta resolução](http://blog.popupdesign.com.br/design-responsivo-e-retina-display-desenvolvimento-web-em-tempos-de-alta-resolucao/)
+- [ ] [User-first Responsive Web Design](https://www.youtube.com/watch?v=9R21WDH14Fg)
+- [ ] [Não interessa, eu quero responsivo!](https://www.youtube.com/watch?v=ib8QJfJb8N8)
+- [ ] [Uma pergunta e três ideias mágicas](https://www.youtube.com/watch?v=VJModxNnmy0)
+- [ ] [Mobile First está errado?](https://www.youtube.com/watch?v=Rrys1PVR5tQ)
+- [ ] [Responsive Web Design e a Ubiquidade da Web](https://www.youtube.com/watch?v=9PQgEl8dOAY)
+- [ ] [Desenvolvimento Responsivo e Viewport](http://blog.popupdesign.com.br/desenvolvimento-responsivo-e-viewport/)
+- [ ] []()
+- [ ] []()
+
+### [<-- Back](https://github.com/simoneas02/crazy-learning/)
