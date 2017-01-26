@@ -10,11 +10,14 @@
 - [ ] [A especificidade e o efeito cascata](http://www.maujor.com/tutorial/especificidade.php)
 - [x] [Why I'm Excited About Native CSS Variables](https://philipwalton.com/articles/why-im-excited-about-native-css-variables/)
 - [x] [CSS Custom Properties for Cascading Variables Module Level 1](https://drafts.csswg.org/css-variables/)
-- [ ] [What is the difference between CSS variables and preprocessor variables?](https://css-tricks.com/difference-between-types-of-css-variables/?ref=webdesignernews.com)
+- [x] [What is the difference between CSS variables and preprocessor variables?](https://css-tricks.com/difference-between-types-of-css-variables/?ref=webdesignernews.com)
 - [ ] [Lea Verou - CSS Variables: var(--subtitle);](https://www.youtube.com/watch?v=2an6-WVPuJU&feature=youtu.be)
 - [ ] [David Khourshid's Reactive Animations with CSS](https://youtu.be/lTCukb6Zn3g)
 - [ ] [Harry Roberts Pragmatic, Practical, and Progressive Theming with Custom Properties](http://csswizardry.com/2016/10/pragmatic-practical-progressive-theming-with-custom-properties/)
 - [ ] [Roman Komarov's Conditions for CSS Variables](http://kizu.ru/en/fun/conditions-for-css-variables/)
-
+- [x] [#019 - Trabalhando com CSS Custom Properties - Quick Tip #001](https://www.youtube.com/watch?v=NAp1FX9mGPU&list=PLgcWRW66amTnK9RhsViFHd3B7-pUW02U1)
+- [x] [#020 - Fallback nativo em variáveis CSS - Quick Tip #002](https://www.youtube.com/watch?v=3joOXJkSM58&list=PLgcWRW66amTnK9RhsViFHd3B7-pUW02U1&index=2)
+- [x] [#021 - Criando mixins com CSS nativo - Quick Tip #003](https://www.youtube.com/watch?v=hs1mASz6coA&list=PLgcWRW66amTnK9RhsViFHd3B7-pUW02U1&index=3)
+- [x] [#022 - Construindo uma Style API com HTML e CSS - Quick Tip #004](https://www.youtube.com/watch?v=KYym_KyiVm8&index=4&list=PLgcWRW66amTnK9RhsViFHd3B7-pUW02U1)
 
 ### [<-- Back](https://github.com/simoneas02/crazy-learning/)
