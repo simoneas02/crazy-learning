@@ -10,6 +10,7 @@
 - [ ] [FrontinSampa 2012 - Tema Surpresa](https://www.youtube.com/watch?v=y8UUKv7j0l0)
 - [ ] [Frontinsampa 2016 - Palestra Surpresa (2012 feelings)](https://www.youtube.com/watch?v=jR3ysN9wiTk&t=157s)
 - [ ] [A web está morrendo e você é o culpado](https://www.youtube.com/watch?v=RIEsNPCP-PI&t=2s)
-- [ ] []()
+- [x] [palestra o começo do high stakes lifestyle | gabriel goffi](https://www.youtube.com/watch?v=0ePSkO_bD84)
+- [ ] [gabriel goffi.](https://www.youtube.com/watch?v=tPEl_b-H6tA&list=PLARP07eD9DM-sOB5CcNBkWfK96uKNAErs)
 
 ### [<-- Back](https://github.com/simoneas02/crazy-learning/)
