@@ -32,7 +32,9 @@
     - [ ] [Concepts](src/concepts.md)
     - [ ] [Grids](src/grids.md)
   - Layout
-    - [ ] [Flexbox](src/flexbox.md)
+    - [ ] [CSS Flexbox Layout](src/flexbox.md)
+    - [ ] [CSS Grid Layout](src/grid-layout.md)
+
   - Performance
     - [ ] [Performance](src/css-performance.md)
 

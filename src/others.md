@@ -11,6 +11,8 @@
 - [ ] [Frontinsampa 2016 - Palestra Surpresa (2012 feelings)](https://www.youtube.com/watch?v=jR3ysN9wiTk&t=157s)
 - [ ] [A web está morrendo e você é o culpado](https://www.youtube.com/watch?v=RIEsNPCP-PI&t=2s)
 - [x] [palestra o começo do high stakes lifestyle | gabriel goffi](https://www.youtube.com/watch?v=0ePSkO_bD84)
+- [x] [Como falar de um jeito que as pessoas queiram ouvir](https://www.youtube.com/watch?v=WURqliMkxXg)
+- [x] [Mentalidade da alta performance: cinco passos simples](https://www.youtube.com/watch?v=ea_o7Ce_Iec)
 - [ ] [gabriel goffi.](https://www.youtube.com/watch?v=tPEl_b-H6tA&list=PLARP07eD9DM-sOB5CcNBkWfK96uKNAErs)
 
 ### [<-- Back](https://github.com/simoneas02/crazy-learning/)
